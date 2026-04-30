@@ -8,6 +8,7 @@ I wanted a clean quick text update and unfortunately there just aren't many solu
 or purchase an account (or give my tax info to Twilio (srsly wtf) )
 
 Pretty basic setup,
+
     1. The user must create their own .env file in the project directory
         - The format of which needs to be:
             EMAIL_USER=<ur-email>@gmail.com
