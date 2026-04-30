@@ -20,4 +20,4 @@ def text_alert(subject, body, to=None):
     except Exception as e:
         print("Error:", e)
     finally:
-        server.quit()  
+        server.quit()
