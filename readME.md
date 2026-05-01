@@ -1,4 +1,5 @@
 Ok, here is the DevOps Final
+
 I have created a send weather update script thing that will auto run everyday (as long as you don't have AT&T)
 
 After quite a while of research and many different accounts created I have settled on the
