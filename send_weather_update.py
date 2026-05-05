@@ -48,7 +48,7 @@ def send_weather_update():
 
     text_alert(
         subject="Weather Update",
-        body=weather_info,
+        body=weather_info
     )
 
 def main():
@@ -60,5 +60,5 @@ def main():
         time.sleep(1)
 
 if __name__ == "__main__":
-    main()
-    #send_weather_update()
+    #main()
+    send_weather_update()
